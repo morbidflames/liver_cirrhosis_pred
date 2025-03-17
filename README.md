@@ -104,3 +104,7 @@ pip install -r requirements.txt
 
 - **Result Visualization:**  
   Model accuracies are compared using a bar plot, and confusion matrix heatmaps provide a detailed look at prediction errors and overall performance.
+
+## Conclusion
+The project successfully demonstrates the prediction of liver cirrhosis stages using machine-learning models. The Random Forest model is the best-performing model in this experiment.
+
