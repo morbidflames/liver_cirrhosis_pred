@@ -1,4 +1,4 @@
-# Liver Cirrhosis Prediction Project
+# Liver Cirrhosis Prediction Using ML models
 
 This project performs an end-to-end analysis to predict liver cirrhosis using machine learning techniques. The notebook covers everything from dataset analysis and preprocessing to model training, evaluation, and visualization.
 
