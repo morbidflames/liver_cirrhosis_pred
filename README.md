@@ -108,3 +108,4 @@ pip install -r requirements.txt
 ## Conclusion
 The project successfully demonstrates the prediction of liver cirrhosis stages using machine-learning models. The Random Forest model is the best-performing model in this experiment.
 
+![image](https://github.com/user-attachments/assets/92bc05c8-a0ec-4f7d-a9ea-69b5575fa298)
